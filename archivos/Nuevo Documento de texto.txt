@@ -1,0 +1,18 @@
+Error: MySQL shutdown unexpectedly.
+ 	This may be due to a blocked port, missing dependencies, 
+	improper privileges, a crash, or a shutdown by another method.
+	Press the Logs button to view error logs and check
+ 	the Windows Event Viewer for more clues
+	If you need more help, copy and post this
+	entire log window on the forums
+
+
+
+CREATE TABLE ejemplos(
+	id int not null AUTO_INCREMENT,
+    	tipo varchar(50),
+    	name varchar(50),
+    	PRIMARY KEY(id)
+);
+
+https://github.com/FaztWeb/php-mysql-crud

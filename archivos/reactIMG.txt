@@ -1,0 +1,32 @@
+import React, { Component } from "react";
+import image from "./assets/cat.jpg";
+export default class testComponent extends Component {
+  render() {
+    return (
+      <div>
+        <img src={image} />
+      </div>
+    );
+  }
+}
+ box-shadow: -1px 5px 7px -1px rgba(0,0,0,0.75);
+   -webkit-box-shadow: -1px 5px 7px -1px rgba(0,0,0,0.75);
+   -moz-box-shadow: -1px 5px 7px -1px rgba(0,0,0,0.75);
+-------------------------------------------------------------------------
+Error == CONFIGURACIONES DE SERVIDOR DE CONFIANZA
+Error shutdown uneexpectedly C:\xampp\mysql\data borrar los archivos no las carpetas
+--------------------------------------------------------------------------
+archivo == panel xamp
+$cfg['Servers'][$i]['host'] = 'localhost:3307'; == modificar cuando phpmyadmin falla
+---------------------------------------------------------------------------
+Archivo php en xampp
+zend_extension=opcache === borrar (;)
+extension=gd === borrar (;)
+---------------------------------------------------------------------------
+version de drupal instalada 9.3.16
+----------------------------------------------------------------------------
+target="blank"
+----------------------------------------------------------------------------
+https://marvelapp.com/prototype/ai1fg37/screen/86228630
+----------------------------------------------------------------------------
+password cubo1423

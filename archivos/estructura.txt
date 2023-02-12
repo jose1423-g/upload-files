@@ -1,0 +1,9 @@
+<p class="txtG"></p>
+
+<p class="txtG"></p>
+
+<span class="indices">a)</span>
+
+<p class="txtG"></p>
+
+<span class="indices">•</span>
